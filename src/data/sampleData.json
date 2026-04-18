@@ -1,0 +1,25 @@
+{
+  "years": ["FY21", "FY22", "FY23", "FY24", "FY25"],
+  "companies": [
+    {
+      "name": "Tata Consultancy Services",
+      "ticker": "TCS",
+      "sector": "Information Technology",
+      "revenue":         [164177, 191754, 225458, 240893, 255324],
+      "profit":          [32430,  38327,  42147,  45908,  48553],
+      "cfo":             [38802,  39548,  41965,  44338,  48000],
+      "debt":            [7677,   7565,   8131,   7956,   8200],
+      "promoterHolding": [72.05,  72.19,  72.30,  71.77,  71.77]
+    },
+    {
+      "name": "Tata Steel",
+      "ticker": "TATASTEEL",
+      "sector": "Metals & Mining",
+      "revenue":         [156477, 243959, 243353, 229171, 218543],
+      "profit":          [8190,   41749,  8075,   -4910,  3174],
+      "cfo":             [31905,  42283,  25000,  26796,  29850],
+      "debt":            [88501,  76000,  71477,  81000,  78250],
+      "promoterHolding": [34.39,  33.90,  33.19,  33.19,  33.19]
+    }
+  ]
+}
